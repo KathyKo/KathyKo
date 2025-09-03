@@ -1,4 +1,4 @@
-<img src="  ">
+<img src="https://github.com/KathyKo/KathyKo/blob/main/github_banner.png">
 
 ## Hello world 👋
 I'm Kathy, I started my journey in Taiwanese Literature, where I learned to value language, history, humanity, and critical thinking.  

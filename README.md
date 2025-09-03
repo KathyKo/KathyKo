@@ -1,16 +1,26 @@
-## Hi there 👋
+<img src="  ">
 
-<!--
-**KathyKo/KathyKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello world 👋
+I'm Kathy, I started my journey in Taiwanese Literature, where I learned to value language, history, humanity, and critical thinking.  
+Curiosity about patterns in data led me into analytics, and turned into AI engineering in my last year of university.  
+Now at NUS MTech AI Systems, I focus on building knowledge and practice that connect human understanding with computational power.  
+I enjoy and hope to bridge humanistic thinking with technical problem-solving into impact.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧐 Some Things About Me
+
+- 🏫 I’m currently studying in NUS-ISS AI Systems ...
+- 🔍 Looking for AI internship from March-August 2026
+- 🌐 Exists on [LinkedIn](https://www.linkedin.com/in/kohungchi), [Blog]()
+- 😄 Pronouns: She/her
+- ⚡ Fun fact:  ISTJ. PADI AOW diver🤿. Muay Thai beginner🥊. Dog lover🐶
+
+### 📚 Currently Learning
+
+
+### 🧰 Toolbox
+![Python](https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=yellow)![C#](https://img.shields.io/badge/-C%20Sharp-white?&style=for-the-badge&logo=c%20sharp&logoColor=239120)
+
+
+- 💬 Favourite Quotes: 
+> "" - 

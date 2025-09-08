@@ -11,12 +11,20 @@ I enjoy and hope to bridge humanistic thinking with technical problem-solving in
 ### 🧐 Some Things About Me
 
 - 🏫 Currently studying in NUS-ISS AI Systems 
-- 🔍 Looking for AI internship from March-August 2026
+- 🔍 Looking for AI internship from **March–August 2026**
 - 🌐 Exists on [LinkedIn](https://www.linkedin.com/in/kohungchi)
-- 😄 Pronouns: She/her
-- ⚡ Fun fact:  ISTJ. PADI AOW diver🤿. Muay Thai beginner🥊. Dog lover🐶
+- 🌞 Pronouns: She/her
+- ⚡ Fun fact:  ISTJ👩‍💻 / PADI AOW diver🤿 / Muay Thai beginner🥊 / Dog lover🐶
 
-### 📚 Currently Learning
+### 📚 Learning in NUS-ISS
+- Intelligent Reasoning Systems
+  - Machine Reasoning 
+  - Reasoning Systems  
+  - Cognitive Systems 
+- Pattern Recognition Systems
+  - Problem Solving using Pattern Recognition
+  - Pattern Recognition and Machine Learning Systems
+  - Intelligent Sensing and Sense Making 
 
 
 ### 🧰 Toolbox

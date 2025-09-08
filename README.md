@@ -1,4 +1,4 @@
-<img src="https://github.com/KathyKo/KathyKo/blob/main/github_banner.png">
+<img src="https://github.com/KathyKo/KathyKo/blob/main/github_banner.gif">
 
 ## Hello world 👋
 I'm Kathy. 
@@ -12,7 +12,7 @@ I enjoy and hope to bridge humanistic thinking with technical problem-solving in
 
 - 🏫 Currently studying in NUS-ISS AI Systems 
 - 🔍 Looking for AI internship from March-August 2026
-- 🌐 Exists on [LinkedIn](https://www.linkedin.com/in/kohungchi), [Blog]()
+- 🌐 Exists on [LinkedIn](https://www.linkedin.com/in/kohungchi)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact:  ISTJ. PADI AOW diver🤿. Muay Thai beginner🥊. Dog lover🐶
 

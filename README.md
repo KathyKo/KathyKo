@@ -10,11 +10,12 @@ I enjoy and hope to bridge humanistic thinking with technical problem-solving in
 
 ### 🧐 Some Things About Me
 
-- 🏫 Currently studying in NUS-ISS AI Systems 
+- 🏫 Currently pursuing a Master’s degree in **AI Systems** at **NUS-ISS**
 - 🔍 Looking for AI internship from **March–August 2026**
 - 🌐 Exists on [LinkedIn](https://www.linkedin.com/in/kohungchi)
 - 🌞 Pronouns: She/her
 - ⚡ Fun fact:  ISTJ👩‍💻 / PADI AOW diver🤿 / Muay Thai beginner🥊 / Dog lover🐶
+- 🗣️ Languages: Chinese (Mandarin)- Native / English- Fluent / Taiwanese Hokkien- Native
 
 ### 📚 Learning in NUS-ISS
 - Intelligent Reasoning Systems

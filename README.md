@@ -29,4 +29,4 @@ I enjoy and hope to bridge humanistic thinking with technical problem-solving in
 
 
 ### 🧰 Toolbox
-![Python](https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=yellow)
+![Python](https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=yellow) ![BigQuery SQL](https://img.shields.io/badge/BigQuery%20SQL-1A73E8?style=for-the-badge&logo=googlecloud&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=yellow)

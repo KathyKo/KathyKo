@@ -3,29 +3,40 @@
 ## Hello world 👋
 I'm Kathy. 
 Started my journey in Taiwanese Literature, where I learned to value language, history, humanity, and critical thinking.  
-Curiosity about data led me into analytics, and turned into AI engineering in my last year of university.  
+Curiosity about data led me into analytics, and turned into AI engineering intern in my last year of university.  
 Now at NUS MTech AI Systems, I focus on building knowledge and practice that connect human acumen with computational power.  
 I enjoy and hope to bridge humanistic thinking with technical problem-solving into impact!
 
 ### 🧐 Some Things About Me
 
 - 🏫 Currently pursuing Master’s degree in **Artificial Intelligence Systems** at **NUS-ISS**🦁
-- 🔍 Looking for AI internship from **March–August 2026**
 - 🌐 Exists on [LinkedIn](https://www.linkedin.com/in/kohungchi)
-- 🌞 Pronouns: She/her
 - ⚡ Fun fact:  ISTJ👩‍💻 / PADI AOW diver🤿 / Muay Thai beginner🥊 / Dog lover🐶
 - 🗣️ Languages: Chinese (Mandarin)- Native / English- Fluent (IELTS 7.0) / Taiwanese Hokkien- Native
 
 
-### 📚 Learning in NUS-ISS (last updated: 2025.09)
+### 📚 Learning in NUS-ISS
 - Intelligent Reasoning Systems
   - Machine Reasoning 
   - Reasoning Systems  
-  - Cognitive Systems 
+  - Cognitive Systems
+
+  **Captone Project**: [AI Powered Scheduling System](https://github.com/YuxuanZhang271/Workshop-Project-Submission-Group10)
 - Pattern Recognition Systems
   - Problem Solving using Pattern Recognition
   - Pattern Recognition and Machine Learning Systems
-  - Intelligent Sensing and Sense Making 
+  - Intelligent Sensing and Sense Making
+ 
+  **Captone Project**: [Motion Analysis](https://github.com/KathyKo/PRS-PM-Project-Submission-Group10)
+- Intelligent Robotic Systems
+  - Robotic Systems
+  - Autonomous Robots and Vehicles
+  - Human-Robot System Engineering
+- Architecting AI Systems
+  - Explainable and Responsible Artificial Intelligence
+  - AI and Cybersecurity
+  - Architecting Agentic AI Solutions
+  - Deploying and Operating AI Solutions
 
 
 ### 🧰 Toolbox

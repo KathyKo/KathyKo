@@ -16,23 +16,23 @@ I enjoy and hope to bridge humanistic thinking with technical problem-solving in
 
 
 ### 📚 Learning in NUS-ISS
-- Intelligent Reasoning Systems
+- **Intelligent Reasoning Systems**
   - Machine Reasoning 
   - Reasoning Systems  
   - Cognitive Systems
 
   **Captone Project**: [AI Powered Scheduling System](https://github.com/YuxuanZhang271/Workshop-Project-Submission-Group10)
-- Pattern Recognition Systems
+- **Pattern Recognition Systems**
   - Problem Solving using Pattern Recognition
   - Pattern Recognition and Machine Learning Systems
   - Intelligent Sensing and Sense Making
  
   **Captone Project**: [Motion Analysis](https://github.com/KathyKo/PRS-PM-Project-Submission-Group10)
-- Intelligent Robotic Systems
+- **Intelligent Robotic Systems**
   - Robotic Systems
   - Autonomous Robots and Vehicles
   - Human-Robot System Engineering
-- Architecting AI Systems
+- **Architecting AI Systems**
   - Explainable and Responsible Artificial Intelligence
   - AI and Cybersecurity
   - Architecting Agentic AI Solutions

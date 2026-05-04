@@ -11,7 +11,7 @@ I enjoy and hope to bridge humanistic thinking with technical problem-solving in
 
 - 🏫 Currently pursuing Master’s degree in **Artificial Intelligence Systems** at **NUS-ISS**🦁
 - 🌐 Exists on [LinkedIn](https://www.linkedin.com/in/kohungchi)
-- ⚡ Fun fact:  ISTJ👩‍💻 / PADI AOW diver🤿 / Muay Thai beginner🥊 / Dog lover🐶
+- ⚡ Fun fact:  PADI AOW diver🤿 / Muay Thai beginner🥊 / Dog lover🐶
 - 🗣️ Languages: Chinese (Mandarin)- Native / English- Fluent (IELTS 7.0) / Taiwanese Hokkien- Native
 
 

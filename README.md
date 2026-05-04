@@ -37,6 +37,8 @@ I enjoy and hope to bridge humanistic thinking with technical problem-solving in
   - AI and Cybersecurity
   - Architecting Agentic AI Solutions
   - Deploying and Operating AI Solutions
+ 
+  **Captone Project**: [TravelMind 🗺️ - Agentic AI multi-agent travel planning system](https://github.com/KathyKo/SWE5008-Team8-TravelMind)
 
 
 ### 🧰 Toolbox
